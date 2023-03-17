@@ -61,3 +61,4 @@ function delbutton() {
     var y = document.getElementById("CompleteBox").innerHTML = "";
     CompleteBox.style.display = 'none'
 }
+
